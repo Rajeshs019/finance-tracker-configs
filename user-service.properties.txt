@@ -1,0 +1,10 @@
+# Properties for User Service
+server.port=9001
+
+# Database Configuration
+spring.datasource.url=jdbc:postgresql://localhost:5432/user_db
+spring.datasource.username=rajeshs019
+spring.datasource.password=rajeshs019
+
+# Logging
+logging.level.com.rajesh=DEBUG
